@@ -1,0 +1,12 @@
+{
+  "author": "trialq",
+  "build": "76557",
+  "context": "server",
+  "date": "2015/01/12",
+  "description": "Factory Points",
+  "display_name": "Factories can only be built on metal spots, metal extractors can be built anywhere.",
+  "enabled": true,
+  "identifier": "com.pa.trialq.tFactoryPoints",
+  "priority": 100,
+  "version": "1.0"
+}
