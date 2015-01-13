@@ -4,10 +4,11 @@
   "context": "server",
   "date": "2015/01/13",
   "display_name": "Factory Points",
+  "forum":"https://forums.uberent.com/threads/67235/",
   "description": "Factories can only be built on metal spots, metal extractors can be built anywhere.",
   "icon":"http://pa-mods.com/mods/tFactoryPoints.png",
   "enabled": true,
   "identifier": "com.pa.trialq.tFactoryPoints",
   "priority": 100,
-  "version": "1.0"
+  "version": "1.0.1"
 }
