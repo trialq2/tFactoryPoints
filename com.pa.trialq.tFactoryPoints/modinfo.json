@@ -1,8 +1,8 @@
 {
   "author": "trialq",
-  "build": "76557",
+  "build": "76766",
   "context": "server",
-  "date": "2015/01/12",
+  "date": "2015/01/13",
   "display_name": "Factory Points",
   "description": "Factories can only be built on metal spots, metal extractors can be built anywhere.",
   "enabled": true,
